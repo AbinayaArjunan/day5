@@ -9,7 +9,8 @@
                 
             }
  }console.log(a)
- } )([9,7,6,4,5])   
+ } )([9,7,6,4,5]) 
+ //sample output: [9,7,5] 
 //2.Print odd numbers in an array using anonymous
     let b=[10,20,5,7,25]
     let c=[]

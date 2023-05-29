@@ -4,8 +4,9 @@
   for (let i = 0; i < str.length; i++) {
     str[i] = str[i].charAt(0).toUpperCase() + str[i].slice(1); 
   } 
-  return str.join(' ');
+  console.log(str.join(' '));
 })("ABI IN DILEMMA");
+//sample output:Abi In Dilemma
 
   //anonymous :  
    function  string(str1) {
