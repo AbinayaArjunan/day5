@@ -1,4 +1,4 @@
-//Anonymous Function:
+//Anonymous Function:""
                  function prime(numArray){
                       numArray = numArray.filter((number) => {
                         for (var i = 2; i <= Math.sqrt(number); i++) {
